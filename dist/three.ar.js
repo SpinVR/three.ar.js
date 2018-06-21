@@ -1614,6 +1614,7 @@ exports.ARReticle = ARReticle;
 exports.ARUtils = ARUtils;
 exports.ARView = ARView;
 exports.ARAnchorManager = ARAnchorManager;
+exports.ARPlanes = ARPlanes;
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
