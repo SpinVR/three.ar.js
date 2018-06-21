@@ -19,7 +19,7 @@ import ARPerspectiveCamera from './ARPerspectiveCamera';
 import ARReticle from './ARReticle';
 import ARUtils from './ARUtils';
 import ARView from './ARView';
-import ARPlane from './ARPlane';
+import ARPlanes from './ARPlanes';
 import ARAnchorManager from './ARAnchorManager';
 import './ARSpeechRecognition';
 
@@ -42,5 +42,5 @@ export {
   ARUtils,
   ARView,
   ARAnchorManager,
-  ARPlane,
+  ARPlanes,
 };
